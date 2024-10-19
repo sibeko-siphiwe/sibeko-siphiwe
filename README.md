@@ -6,7 +6,7 @@
 
 📧 Email: siphiwe.dev031@gmail.com
 
-🌐 Personal Website: siphiwe.dev
+🌐 Personal Website: https://sibeko-siphiwe.github.io/.com/
 
 📱 Phone: 0835527669 
 
