@@ -8,7 +8,7 @@
 
 🌐 Personal Website: https://sibeko-siphiwe.github.io/.com/
 
-📱 Phone: 0835527669 
+📱 Phone: <a href="tel:+27835527669">0835527669 </a>
 
 
 <section>
