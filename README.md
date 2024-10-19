@@ -1,6 +1,6 @@
-Siphiwe Sibeko
+<h1>Siphiwe Sibeko</h1>
 
-Web Developer
+<h2>Web Developer</h2>
 
 📍 Location: Vrede, South Africa
 
@@ -8,13 +8,23 @@ Web Developer
 
 🌐 Personal Website: siphiwe.dev
 
-📱 Phone: 0835527669
+📱 Phone: 0835527669 
 
-About Me
 
-Hi, I'm Siphiwe Sibeko, a passionate Web Developer with hands-on experience in both front-end and back-end development. I'm proficient in a range of programming languages, including C#, HTML, CSS, JavaScript, and PHP. I possess a strong foundation in database management using SQL and NoSQL technologies, and I have a proven track record of delivering high-quality, user-centric web applications.
+<section>
 
-Skills
+  <fieldset>
+
+ <h4>About Me</h4>
+ 
+  Hi, I'm Siphiwe Sibeko, a passionate Web Developer with hands-on experience in both front-end and back-end development. I'm proficient in a range of programming languages,   including C#, HTML, CSS, JavaScript, and PHP. I possess a strong foundation in database management using SQL and NoSQL technologies, and I have a proven track record of      delivering high-quality, user-centric web applications.
+    
+  </fieldset>
+  
+</section>
+
+
+<h4>Skills</h4>
 
 Programming Languages: C#, HTML, CSS, JavaScript, Java, PHP, MySQL.
 
@@ -24,4 +34,4 @@ Databases: Microsoft SQL Server, MySQL, SQLite, Firebase.
 
 Tools: Git, GitHub, Visual Studio, Android Studio.
 
-Open to collaboration and networking opportunities.
+<h3>Open to collaboration and networking opportunities.</h3>
