@@ -1,6 +1,6 @@
 <h1>Hi there, I am Siphiwe Sibeko</h1>
 
-<h2>Web Developer</h2>
+<h2>Web Developer & Software Engineer</h2>
 
 📍 Location: Vrede, South Africa
 
