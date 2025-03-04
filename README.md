@@ -25,7 +25,7 @@
 🔹 **Dev Toolkit**  
 🛠️ `Git` | `Android Studio` | `VS` | `Firebase`  
 
-🌟 **Philosophy**: *"Bridge pixels and databases to create solutions that work as beautifully as they look"*  
+🌟 **Philosophy**: *"Every line of code paints tomorrow's internet"*  
 
 🤝 **Let's Innovate**: From MVP to full-scale systems - your vision, my code, our impact!
 
