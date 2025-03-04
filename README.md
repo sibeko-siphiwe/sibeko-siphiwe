@@ -3,8 +3,31 @@
 
 ---
 
-## 👋 About Me  
-I architect complete digital solutions - crafting beautiful frontend experiences with modern frameworks, building robust backend systems, and designing efficient database structures. From pixel-perfect web UIs to native mobile apps and optimized data architectures, I bring ideas to life across the stack.
+## 🚀 About Me  
+**Full-Stack Developer** crafting seamless digital experiences from concept to deployment  
+
+🔹 **Frontend Artistry**  
+🖥️ Building responsive UIs with `React` + `Tailwind`/`Bootstrap`  
+🎨 Mastering core web tech: `HTML5` | `CSS3` | `JavaScript`  
+
+🔹 **Mobile Craft**  
+📱 Developing native Android apps using `Java` + `XML`  
+⚡ Creating smooth user interactions and clean layouts  
+
+🔹 **Backend Power**  
+⚙️ Engineering robust systems with `ASP.NET` & `PHP`  
+🔗 API development and system integration  
+
+🔹 **Data Mastery**  
+🗃️ Structured databases with `SQL` (MySQL)  
+🌐 NoSQL solutions using `MongoDB`  
+
+🔹 **Dev Toolkit**  
+🛠️ `Git` | `Android Studio` | `VS` | `Firebase`  
+
+🌟 **Philosophy**: *"Bridge pixels and databases to create solutions that work as beautifully as they look"*  
+
+🤝 **Let's Innovate**: From MVP to full-scale systems - your vision, my code, our impact!
 
 ---
 
