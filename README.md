@@ -71,7 +71,7 @@
 ## 🌍 Connect  
 📍 **Location**: Vrede, South Africa  
 📬 **Contact**: [siphiwe.dev031@gmail.com](mailto:siphiwe.dev031@gmail.com)  
-🌍 **Portfolio**: [siphiwe.dev](https://sibeko-siphiwe.github.io/)  
+🌍 **Portfolio**: [siphiwe.dev](http://sibeko-siphiwe.free.nf)  
 📱 **Call**: [+27 83 552 7669](tel:+27835527669)  
 
 ---
